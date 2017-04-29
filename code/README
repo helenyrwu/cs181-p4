@@ -1,0 +1,8 @@
+Commands:
+
+`python std_runner.py`
+	to run learner with Q-Learning
+	can vary PIXELS_PER_BIN
+
+`python run.py`
+	to run learner with SARSA and Neural Network
